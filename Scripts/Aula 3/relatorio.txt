@@ -1,0 +1,6 @@
+RELATORIO DE SEGURANCA
+==============================
+Tentativas falhadas: 28
+Logins com sucesso: 4
+Total de linhas: 31
+Taxa de falha: 90.32258064516128

@@ -1,0 +1,16 @@
+RELATÓRIO COMPLETO DE SEGURANÇA
+==============================
+--- RESUMO GERAL ---
+Total de linhas analisadas: 31
+Tentativas falhadas: 28
+Logins com sucesso: 4
+Taxa de falha: 90.32258064516128
+--- PESQUISA DE IP ---
+IP pesquisado: 192.168.1.10, 3 ocorrência(s)
+
+--- ATAQUES POR IP ATACANTE ---
+IP 61.177.173.22: 11 ataque(s)
+IP 193.168.1.45: 9 ataque(s)
+IP 222.186.42.7: 6 ataque(s)
+IP 45.148.10.3: 2 ataque(s)
+IP 192.168.1.10: 3 ataque(s)
