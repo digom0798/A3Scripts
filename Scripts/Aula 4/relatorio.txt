@@ -1,0 +1,6 @@
+RELATÓRIO DE ATAQUES POR IP
+==============================
+45.148.10.3: 2 ataques
+61.177.173.22: 11 ataques
+193.168.1.45: 9 ataques
+222.186.42.7: 6 ataques
