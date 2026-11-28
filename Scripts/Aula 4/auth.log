@@ -1,0 +1,32 @@
+Nov  3 03:14:02 srv-web01 sshd[2800]: Failed password for root from 61.177.173.22 port 41200 ssh2
+Nov  3 03:14:05 srv-web01 sshd[2801]: Failed password for root from 61.177.173.22 port 41201 ssh2
+Nov  3 03:14:09 srv-web01 sshd[2802]: Failed password for root from 61.177.173.22 port 41202 ssh2
+Nov  3 03:14:12 srv-web01 sshd[2803]: Failed password for root from 61.177.173.22 port 41203 ssh2
+Nov  3 03:14:16 srv-web01 sshd[2804]: Failed password for root from 61.177.173.22 port 41204 ssh2
+Nov  3 03:14:19 srv-web01 sshd[2805]: Failed password for root from 61.177.173.22 port 41205 ssh2
+Nov  3 03:14:23 srv-web01 sshd[2806]: Failed password for root from 61.177.173.22 port 41206 ssh2
+Nov  3 03:14:27 srv-web01 sshd[2807]: Failed password for root from 61.177.173.22 port 41207 ssh2
+Nov  3 03:14:31 srv-web01 sshd[2808]: Failed password for root from 61.177.173.22 port 41208 ssh2
+Nov  3 03:14:34 srv-web01 sshd[2809]: Failed password for root from 61.177.173.22 port 41209 ssh2
+Nov  3 03:14:38 srv-web01 sshd[2810]: Failed password for root from 61.177.173.22 port 41210 ssh2
+Nov  3 03:15:01 srv-web01 sshd[2900]: Failed password for invalid user admin from 193.168.1.45 port 52000 ssh2
+Nov  3 03:15:04 srv-web01 sshd[2901]: Failed password for invalid user admin from 193.168.1.45 port 52001 ssh2
+Nov  3 03:15:08 srv-web01 sshd[2902]: Failed password for invalid user test from 193.168.1.45 port 52002 ssh2
+Nov  3 03:15:12 srv-web01 sshd[2903]: Failed password for invalid user oracle from 193.168.1.45 port 52003 ssh2
+Nov  3 03:15:15 srv-web01 sshd[2904]: Failed password for invalid user postgres from 193.168.1.45 port 52004 ssh2
+Nov  3 03:15:19 srv-web01 sshd[2905]: Failed password for invalid user git from 193.168.1.45 port 52005 ssh2
+Nov  3 03:15:23 srv-web01 sshd[2906]: Failed password for invalid user ubuntu from 193.168.1.45 port 52006 ssh2
+Nov  3 03:15:27 srv-web01 sshd[2907]: Failed password for invalid user user from 193.168.1.45 port 52007 ssh2
+Nov  3 03:15:30 srv-web01 sshd[2908]: Failed password for invalid user ftp from 193.168.1.45 port 52008 ssh2
+Nov  3 04:02:11 srv-web01 sshd[3000]: Failed password for root from 222.186.42.7 port 33000 ssh2
+Nov  3 04:02:15 srv-web01 sshd[3001]: Failed password for root from 222.186.42.7 port 33001 ssh2
+Nov  3 04:02:18 srv-web01 sshd[3002]: Failed password for root from 222.186.42.7 port 33002 ssh2
+Nov  3 04:02:22 srv-web01 sshd[3003]: Failed password for root from 222.186.42.7 port 33003 ssh2
+Nov  3 04:02:26 srv-web01 sshd[3004]: Failed password for root from 222.186.42.7 port 33004 ssh2
+Nov  3 04:02:29 srv-web01 sshd[3005]: Failed password for root from 222.186.42.7 port 33005 ssh2
+Nov  3 05:40:03 srv-web01 sshd[3100]: Failed password for invalid user admin from 45.148.10.3 port 60000 ssh2
+Nov  3 05:40:07 srv-web01 sshd[3101]: Failed password for invalid user admin from 45.148.10.3 port 60001 ssh2
+Nov  3 08:12:45 srv-web01 sshd[3200]: Accepted password for vitor from 192.168.1.10 port 55021 ssh2
+Nov  3 09:03:11 srv-web01 sshd[3201]: Accepted password for vitor from 192.168.1.10 port 55044 ssh2
+Nov  3 13:47:52 srv-web01 sshd[3202]: Accepted password for ana from 192.168.1.14 port 49888 ssh2
+Nov  3 17:22:09 srv-web01 sshd[3203]: Accepted password for vitor from 192.168.1.10 port 55120 ssh2
